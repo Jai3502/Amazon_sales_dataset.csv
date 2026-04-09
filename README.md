@@ -89,6 +89,6 @@ This dataset is for educational and research purposes only.
 
 
 
-## ⭐ Support
+##  Support
 
 If you find this dataset useful, consider giving the repository a star!
